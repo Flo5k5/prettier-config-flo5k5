@@ -1,0 +1,15 @@
+{
+  "name": "prettier-config-flo5k5",
+  "version": "1.0.0",
+  "description": "Shared prettier config for dev",
+  "keywords": [
+    "prettier",
+    "prettier-config"
+  ],
+  "license": "MIT",
+  "author": "Florian Nourrisse <fnourrisse@gmail.com>",
+  "files": [
+    "index.json"
+  ],
+  "main": "index.json"
+}
